@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <title>Celina Beauty Salon Grand Opening</title>
