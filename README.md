@@ -1,5 +1,4 @@
-# Celina-Invitation-
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Celina Beauty Salon Grand Opening</title>
